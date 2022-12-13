@@ -1,0 +1,30 @@
+From db8da68c39d71f18635dd61d7264b581b672c21a Mon Sep 17 00:00:00 2001
+From: MGnoli <marcello.gnoli@energee3.com>
+Date: Tue, 13 Dec 2022 10:01:16 +0100
+Subject: [PATCH] edit readme
+
+---
+ README.md     | 2 +-
+ README.md.bak | 2 ++
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100644 README.md.bak
+
+diff --git a/README.md b/README.md
+index ad53ed2..d723294 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+ # corso_git
+-#test
++#test 2
+diff --git a/README.md.bak b/README.md.bak
+new file mode 100644
+index 0000000..ad53ed2
+--- /dev/null
++++ b/README.md.bak
+@@ -0,0 +1,2 @@
++# corso_git
++#test
+-- 
+2.38.1.windows.1
+
